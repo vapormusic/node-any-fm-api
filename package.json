@@ -1,5 +1,5 @@
 {
-	"name": "lastfmapi",
+	"name": "any-fm-api",
 	"description": "A Last.fm API client library wrapper with a simple and clean interface.",
 	"version": "0.1.1",
 	"homepage": "https://github.com/a93h/node-any-fm-api",
