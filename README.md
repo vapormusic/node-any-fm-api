@@ -36,6 +36,16 @@ var lfm = new LastfmAPI({
 });
 ```
 
+and change the url to libre.fm endpoint as follows:
+
+```javascript
+var lfm = new LastfmAPI({
+	'api_key' : 'YOUR_API_KEY',
+	'secret' : 'YOUR_API_SECRET',
+	'auth_url' : 'https://www.libre.fm/api/auth/'
+});
+```
+
 Try it out:
 
 ```javascript
